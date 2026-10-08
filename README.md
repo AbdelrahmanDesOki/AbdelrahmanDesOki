@@ -25,13 +25,13 @@ I build AI applications and ship them to production. My background combines **LL
 
 | Project | Stack | What it does |
 |---|---|---|
-| [**Mini-RAG**](https://github.com/AbdelrahmanDesOki/Mini-RAG-A...) | Python, LLM APIs, vector DB | <!-- One line: what it retrieves, from what, and the result --> |
-| **Multimodal RAG** | Python, <!-- models --> | <!-- One line --> |
-| **Multi-Agent System** | LangGraph, Agent2Agent | <!-- One line --> |
+| [**Multimodal RAG**](https://github.com/AbdelrahmanDesOki/My-First-RAG) | Python, JS, Vector DB | An agentic personal assistant that lets you upload PDFs, chat with your knowledge base, attach images to questions, and get cited, streamed answers in real time. |
+| [**Multi-Agent System**](https://github.com/AbdelrahmanDesOki/trip-planner-claude-agents) | LangGraph, Agent2Agent | A multi-agent AI travel planner powered by Claude, LangGraph, and React. Enter a destination, number of days, budget, and travelers — three specialized AI agents work in parallel to generate a complete day-by-day itinerary with budget breakdown and travel tips. |
 | **Email → Sheets Agent** | n8n, MCP | Monitors email, extracts transaction data, updates Google Sheets automatically |
-| **Galaxies Around NASA** | <!-- stack --> | <!-- One line --> |
+| [**Galaxies Around NASA**](https://github.com/AbdelrahmanDesOki/Galaxies-Around) | JS, HTML, NASA Library | An interactive universe simulator — from your backyard to the edge of everything.
+Fly from Earth out through the Solar System, past the nearest stars, across the Milky Way, into the Local Group, and all the way to the observable universe — zooming, clicking and exploring real worlds with facts straight from NASA. |
 
-> Replace the links and the comment placeholders with your real repo URLs and one-line outcomes. Pin these same repos on your profile.
+
 
 ---
 
