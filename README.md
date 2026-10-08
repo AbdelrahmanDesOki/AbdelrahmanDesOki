@@ -4,7 +4,7 @@
 
 **AI / Full Stack Engineer** · LLM apps & RAG · Production DevOps · Budapest
 
-[LinkedIn]([https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/abdelrahman-shalabi-0334b7189/)) · [Email](DESOKI.ABDELRAHMAN@gmail.com) · [X / Twitter]([https://x.com/Desok_ii](https://x.com/5_abd0o0))
+[LinkedIn](https://www.linkedin.com/in/abdelrahman-shalabi-0334b7189/) · [Email](DESOKI.ABDELRAHMAN@gmail.com) · [X / Twitter](https://x.com/5_abd0o0)
 
 </div>
 
