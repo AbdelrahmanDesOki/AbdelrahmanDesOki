@@ -2,7 +2,7 @@
 
 # Hi, I'm Abdelrahman (Abdoo) 👋
 
-**AI / Full Stack Engineer** · LLM apps & RAG · Production DevOps · Budapest
+**AI / Full Stack Engineer** · LLM apps & RAG · Production DevOps · Muscat
 
 [LinkedIn](https://www.linkedin.com/in/abdelrahman-shalabi-0334b7189/) · [Email](DESOKI.ABDELRAHMAN@gmail.com) · [X / Twitter](https://x.com/5_abd0o0)
 
